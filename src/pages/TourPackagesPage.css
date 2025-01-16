@@ -1,0 +1,13 @@
+.tour-packages-page {
+    padding: 20px;
+  }
+  
+  .sorting-controls {
+    margin-bottom: 20px;
+  }
+  
+  .tour-card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }

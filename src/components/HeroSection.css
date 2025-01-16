@@ -1,0 +1,16 @@
+.hero-section {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .hero-section .carousel img {
+    height: 100vh;
+    object-fit: cover;
+  }
+  
+  .carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+  }
